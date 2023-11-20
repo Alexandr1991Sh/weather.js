@@ -1,0 +1,12 @@
+html,
+body {
+    font-family: serif;
+}
+
+body {
+    margin: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
